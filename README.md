@@ -47,3 +47,6 @@ Sortir un site vachement LAITgendaire .
 
 ### ✍️ POST SCRIPTUM
 On adore l'humour
+
+### Ici vous retrouverez les différentes étpaes de maquettage (zoning, wireframes, mock-up)
+[Maquettage Figma] (https://www.figma.com/design/Ivfou55d0HMT5PJd9Lg6NM/APLI---A-MeuhDigitalShool-Project?node-id=1-17&t=JYFipLBGOvoUplxF-1)
