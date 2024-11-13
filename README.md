@@ -1,7 +1,7 @@
 # APLI - A MeuhDigitalShool School Project
 
 ## Constat
-
+https://www.apli-nationale.org/index_numlien_29/
 Site : 0/20
 
 ## 👨‍⚖️ Utilisation des lois ✅
@@ -48,5 +48,5 @@ Sortir un site vachement LAITgendaire .
 ### ✍️ POST SCRIPTUM
 On adore l'humour
 
-### Ici vous retrouverez les différentes étpaes de maquettage (zoning, wireframes, mock-up)
+### Ici vous retrouverez les différentes étapes de maquettage (zoning, wireframes, mock-up)
 [Maquettes Figma](https://www.figma.com/design/Ivfou55d0HMT5PJd9Lg6NM/APLI---A-MeuhDigitalShool-Project?node-id=1-17&t=JYFipLBGOvoUplxF-1)
