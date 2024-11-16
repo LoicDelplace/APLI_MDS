@@ -1,0 +1,270 @@
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-Thin.woff2') format('woff2'),
+    url('./fonts/Subjectivity-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-Bold.woff2') format('woff2'),
+    url('./fonts/Subjectivity-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-ThinSlanted.woff2') format('woff2'),
+    url('./fonts/Subjectivity-ThinSlanted.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-Super.woff2') format('woff2'),
+    url('./fonts/Subjectivity-Super.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-LightSlanted.woff2') format('woff2'),
+    url('./fonts/Subjectivity-LightSlanted.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-Light.woff2') format('woff2'),
+    url('./fonts/Subjectivity-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-Black.woff2') format('woff2'),
+    url('./fonts/Subjectivity-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-Medium.woff2') format('woff2'),
+    url('./fonts/Subjectivity-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-BoldSlanted.woff2') format('woff2'),
+    url('./fonts/Subjectivity-BoldSlanted.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-Regular.woff2') format('woff2'),
+    url('./fonts/Subjectivity-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-BlackSlanted.woff2') format('woff2'),
+    url('./fonts/Subjectivity-BlackSlanted.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-ExtraBoldSlanted.woff2') format('woff2'),
+    url('./fonts/Subjectivity-ExtraBoldSlanted.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-RegularSlanted.woff2') format('woff2'),
+    url('./fonts/Subjectivity-RegularSlanted.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-ExtraBold.woff2') format('woff2'),
+    url('./fonts/Subjectivity-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-MediumSlanted.woff2') format('woff2'),
+    url('./fonts/Subjectivity-MediumSlanted.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity';
+    src: url('./fonts/Subjectivity-SuperSlanted.woff2') format('woff2'),
+    url('./fonts/Subjectivity-SuperSlanted.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity Serif';
+    src: url('./fonts/SubjectivitySerif-BlackSlant.woff2') format('woff2'),
+    url('./fonts/SubjectivitySerif-BlackSlant.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity Serif';
+    src: url('./fonts/SubjectivitySerif-Super.woff2') format('woff2'),
+    url('./fonts/SubjectivitySerif-Super.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity Serif';
+    src: url('./fonts/SubjectivitySerif-ThinSlanted.woff2') format('woff2'),
+    url('./fonts/SubjectivitySerif-ThinSlanted.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity Serif';
+    src: url('./fonts/SubjectivitySerif-ExtraBoldSlanted.woff2') format('woff2'),
+    url('./fonts/SubjectivitySerif-ExtraBoldSlanted.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity Serif';
+    src: url('./fonts/SubjectivitySerif-Light.woff2') format('woff2'),
+    url('./fonts/SubjectivitySerif-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity Serif';
+    src: url('./fonts/SubjectivitySerif-BoldSlanted.woff2') format('woff2'),
+    url('./fonts/SubjectivitySerif-BoldSlanted.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity Serif';
+    src: url('./fonts/SubjectivitySerif-MediumSlanted.woff2') format('woff2'),
+    url('./fonts/SubjectivitySerif-MediumSlanted.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity Serif';
+    src: url('./fonts/SubjectivitySerif-Bold.woff2') format('woff2'),
+    url('./fonts/SubjectivitySerif-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity Serif';
+    src: url('./fonts/SubjectivitySerif-Medium.woff2') format('woff2'),
+    url('./fonts/SubjectivitySerif-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity Serif';
+    src: url('./fonts/SubjectivitySerif-Slanted.woff2') format('woff2'),
+    url('./fonts/SubjectivitySerif-Slanted.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity Serif';
+    src: url('./fonts/SubjectivitySerif-Regular.woff2') format('woff2'),
+    url('./fonts/SubjectivitySerif-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity Serif';
+    src: url('./fonts/SubjectivitySerif-LightSlanted.woff2') format('woff2'),
+    url('./fonts/SubjectivitySerif-LightSlanted.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity Serif';
+    src: url('./fonts/SubjectivitySerif-ExtraBold.woff2') format('woff2'),
+    url('./fonts/SubjectivitySerif-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Subjectivity Serif';
+    src: url('./fonts/SubjectivitySerif-Black.woff2') format('woff2'),
+    url('./fonts/SubjectivitySerif-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
